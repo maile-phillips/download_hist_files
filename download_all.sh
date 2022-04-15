@@ -16,7 +16,7 @@ fi
 
 FILE_PATH="$1"
 
-EXPORT_TO=/tmp/all_versions_exported
+EXPORT_TO=~/OneDrive - CDC/GitHub/download_hist_files/downloads
 if [ -n "$2" ]; then
 	    EXPORT_TO="$2"
 fi
